@@ -1,0 +1,39 @@
+
+:root {
+  --app-container:{{colors["light-app-container"]}};
+  --main-color:{{colors["light-main-color"]}};
+  --secondary-color:{{colors["light-secondary-color"]}};
+  --link-color:{{colors["light-link-color"]}};
+  --link-color-hover:{{colors["light-link-color-hover"]}};
+  --link-color-active:{{colors["light-link-color-active"]}}
+  --link-color-active-bg:{{colors["light-link-color-active-bg"]}};
+  --projects-section:{{colors["light-projects-section"]}}
+  --message-box-hover:{{colors["light-message-box-hover"]}};
+  --message-box-border:{{colors["light-message-box-border"]}};
+  --more-list-bg:{{colors["light-more-list-bg"]}}
+  --more-list-bg-hover:{{colors["light-more-list-bg-hover"]}};
+  --more-list-shadow: {{colors["light-more-list-shadow"]}};
+  --button-bg:{{colors["light-button-bg"]}};
+  --search-area-bg:{{colors["light-search-area-bg"]}}
+  --star:{{colors["light-star"]}};
+  --message-btn:{{colors["light-message-btn"]}}
+
+.dark:root {
+  --app-container:{{colors["dark-app-container"]}};
+  --main-color:{{colors["dark-main-color"]}};
+  --secondary-color: {{colors["dark-secondary-color"]}};
+  --projects-section:{{colors["dark-projects-section"]}};
+  --link-color: {{colors["dark-link-color"]}};
+  --link-color-hover: {{colors["dark-link-color-hover"]}};
+  --link-color-active-bg: {{colors["dark-link-color-active-bg"]}};
+  --button-bg:{{colors["dark-button-bg"]}};
+  --search-area-bg:{{colors["dark-search-area-bg"]}};
+  --message-box-hover:{{colors["dark-message-box-hover"]}};
+  --message-box-border: {{colors["dark-message-box-border"]}};
+  --star:{{colors["dark-star"]}};
+  --light-font: {{colors["dark-"]}};
+  --more-list-bg:{{colors["dark-more-list-bg"]}};
+  --more-list-bg-hover: {{colors["dark-more-list-bg-hover"]}};
+  --more-list-shadow: {{colors["dark-more-list-shadow"]}};
+  --message-btn: {{colors["dark-message-btn"]}};
+}

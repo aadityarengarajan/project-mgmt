@@ -1,0 +1,19 @@
+{
+    "name": "Project MGMT",
+    "description": "The WebApp you're currently using!",
+    "created": "20/4/2021",
+    "completed": "true",
+    "modules": [
+        "flask",
+        "datetime",
+        "os",
+        "json"
+    ],
+    "hosting": {
+        "hosted": "true",
+        "host": "vercel",
+        "url": "sa-notams.vercel.app",
+        "protocol": "HTTPS"
+    },
+    "code": "PR-20042021-165836"
+}
